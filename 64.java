@@ -22,11 +22,11 @@ class Ideone
 
 	   Scanner sc=new Scanner(System.in);
 
-	   int m=sc.nextInt();
+	   int p=sc.nextInt();
 
 	   int n=sc.nextInt();
 
-	   int sum=m+n;
+	   int sum=p+n;
 
 	   if(sum%2==0)
 
